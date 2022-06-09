@@ -1,2 +1,2 @@
-
-    printf("Ciao mjondo");
+prima riga
+printf("Ciao mjondo");
